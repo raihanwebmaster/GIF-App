@@ -10,7 +10,7 @@
 + Reactjs
 + Rest Api
 
-##  Hit below & post your own memories
+##  Hit below & see amazing Gif
 ### [Live site](https://gifs-it.netlify.app/)
 
 
